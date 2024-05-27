@@ -1,0 +1,14 @@
+/home/rahul/HelloWorldApp/DotNetCoreDemo/bin/Debug/net8.0/DotNetCoreDemo
+/home/rahul/HelloWorldApp/DotNetCoreDemo/bin/Debug/net8.0/DotNetCoreDemo.deps.json
+/home/rahul/HelloWorldApp/DotNetCoreDemo/bin/Debug/net8.0/DotNetCoreDemo.runtimeconfig.json
+/home/rahul/HelloWorldApp/DotNetCoreDemo/bin/Debug/net8.0/DotNetCoreDemo.dll
+/home/rahul/HelloWorldApp/DotNetCoreDemo/bin/Debug/net8.0/DotNetCoreDemo.pdb
+/home/rahul/HelloWorldApp/DotNetCoreDemo/obj/Debug/net8.0/DotNetCoreDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/rahul/HelloWorldApp/DotNetCoreDemo/obj/Debug/net8.0/DotNetCoreDemo.AssemblyInfoInputs.cache
+/home/rahul/HelloWorldApp/DotNetCoreDemo/obj/Debug/net8.0/DotNetCoreDemo.AssemblyInfo.cs
+/home/rahul/HelloWorldApp/DotNetCoreDemo/obj/Debug/net8.0/DotNetCoreDemo.csproj.CoreCompileInputs.cache
+/home/rahul/HelloWorldApp/DotNetCoreDemo/obj/Debug/net8.0/DotNetCoreDemo.dll
+/home/rahul/HelloWorldApp/DotNetCoreDemo/obj/Debug/net8.0/refint/DotNetCoreDemo.dll
+/home/rahul/HelloWorldApp/DotNetCoreDemo/obj/Debug/net8.0/DotNetCoreDemo.pdb
+/home/rahul/HelloWorldApp/DotNetCoreDemo/obj/Debug/net8.0/DotNetCoreDemo.genruntimeconfig.cache
+/home/rahul/HelloWorldApp/DotNetCoreDemo/obj/Debug/net8.0/ref/DotNetCoreDemo.dll
